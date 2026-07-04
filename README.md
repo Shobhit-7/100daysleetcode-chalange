@@ -8,13 +8,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Union-Find
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Graph Theory
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-<!---LeetCode Topics End-->
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/2492-minimum-

@@ -15,14 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
-| ------- |
-| [1301-number-of-paths-with-max-score](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1301-number-of-paths-with-max-score) |
-## Matrix
-|  |
-| ------- |
-| [1301-number-of-paths-with-max-score](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1301-number-of-paths-with-max-score) |
-<!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
+
 # LeetCode Topics
 ## Depth-First Search
 |  |

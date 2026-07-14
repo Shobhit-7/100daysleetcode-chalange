@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |

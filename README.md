@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1301-number-of-paths-with-max-score) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |

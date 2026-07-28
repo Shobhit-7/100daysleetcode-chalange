@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1288-remove-covered-intervals) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +135,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shobhit-7/100daysleetcode-chalange/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
